@@ -1,3 +1,5 @@
+![Snake animation](https://raw.githubusercontent.com/beratyaalcin/beratyaalcin/output/github-snake.svg)
+
 # Selam, ben Berat! 
 
 #### Bilgisayar Mühendisliği Son Sınıf Öğrencisiyim. 
