@@ -37,6 +37,10 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Berat Yalçın LinkedIn" height="50" width="50" />
 </a>
 
+## 📫 Bana Ulaşın
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beratyalcin)
+
 ---
 
 ## 📊 GitHub İstatistiklerim
