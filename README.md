@@ -1,7 +1,21 @@
 # Selam, ben Berat! 👋
 
 ### 🎓 Bilgisayar Mühendisliği Son Sınıf Öğrencisi
-Bolu Abant İzzet Baysal Üniversitesi'nde (BAİBÜ) öğrenim görüyorum. Gömülü sistemler, yapay zeka ve görüntü işleme dünyasıyla iç içeyim.
+Bolu Abant İzzet Baysal Üniversitesi'nde öğrenim görüyorum. 
+Gömülü sistemler, yapay zeka ve görüntü işleme gibi teknolojilere ilgi duyuyorum.
+
+---
+
+## ⭐ Öne Çıkan Projelerim
+
+Aşağıdaki tabloda, teknik yetkinliklerimi en iyi yansıtan çalışmalarıma göz atabilirsiniz:
+
+| Proje İsmi | Açıklama | Teknoloji | Link |
+| :--- | :--- | :--- | :--- |
+| **Lazerle Otonom Sinek Avcı** | Görüntü işleme ile sinekleri tespit edip lazerle etkisiz hale getiren mezuniyet projem. | `Python`, `OpenCV` | [Görüntüle](https://github.com/kullanici_adi/sinek-avci) |
+| **İnsansız Kara Aracı (İKA)** | TEKNOFEST kapsamında geliştirdiğimiz, otonom sürüş yeteneğine sahip kara aracı. | `C++`, `ROS`, `Python` | [İncele](https://github.com/kullanici_adi/ika-projesi) |
+| **Çığ Analizi & Görselleştirme** | Kar katmanlarını analiz ederek çığ riskini hesaplayan ve video çıktısı veren sistem. | `Python`, `Matplotlib` | [Detaylar](https://github.com/kullanici_adi/cig-analizi) |
+| **Video to PDF Converter** | Ders videolarını karelere (frame) bölüp otomatik olarak PDF notuna dönüştüren araç. | `Python`, `PyMuPDF` | [Koda Git](https://github.com/kullanici_adi/video-to-pdf) |
 
 ---
 
@@ -16,7 +30,7 @@ Bolu Abant İzzet Baysal Üniversitesi'nde (BAİBÜ) öğrenim görüyorum. Göm
 ## 🚀 Şu An Ne Yapıyorum?
 - 🎯 Gerçek zamanlı görüntü işleme yapan otonom bir sistem üzerinde çalışıyorum.
 - 🤖 TEKNOFEST İnsansız Kara Araçları yarışması için hazırlık yapıyorum.
-- 📈 YDS için İngilizcemi geliştiriyorum.
+- 📈 Bitirme projem ile uğraşıyorum.
 
 ---
 
