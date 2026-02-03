@@ -1,5 +1,3 @@
-![Snake animation](https://raw.githubusercontent.com/beratyaalcin/beratyaalcin/output/github-snake-dark.svg)
-
 # Selam, ben Berat! 
 
 #### Bilgisayar Mühendisliği Son Sınıf Öğrencisiyim. 
@@ -7,6 +5,9 @@
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/beratyaalcin/beratyaalcin/output/github-snake-dark.svg)
+
+---
 ## ⭐ Öne Çıkan Projelerim ⭐
 
 | Proje İsmi | Açıklama | Teknoloji | Link |
