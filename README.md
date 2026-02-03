@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Nelerle Uğraşıyorum?
+## Nelerle Uğraşıyorum?
 - **Görüntü İşleme:** OpenCV kullanarak gerçek zamanlı sistemler geliştiriyorum (Lazerle otonom takip sistemleri gibi!).
 - **Gömülü Sistemler:** PIC Mikrodenetleyiciler ve MikroC ile donanım seviyesinde kod yazmayı seviyorum.
 - **Yapay Zeka:** Problem çözen ajanlar ve veri madenciliği (Weka) üzerine projeler yürütüyorum.
@@ -24,24 +24,14 @@
 
 ---
 
-## 🚀 Şu An Ne Yapıyorum?
-- 🎯 Gerçek zamanlı görüntü işleme yapan otonom bir sistem üzerinde çalışıyorum.
-- 🤖 TEKNOFEST İnsansız Kara Araçları yarışması için hazırlık yapıyorum.
-- 📈 Bitirme projem ile uğraşıyorum.
+## Şu An Ne Yapıyorum?
+- Gerçek zamanlı görüntü işleme yapan otonom bir sistem üzerinde çalışıyorum.
+- TEKNOFEST İnsansız Kara Araçları yarışması için hazırlık yapıyorum.
+- Bitirme projem ile uğraşıyorum.
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-![Berat's GitHub stats](https://github-readme-stats.vercel.app/api?username=beratyaalcin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beratyaalcin&layout=compact&theme=radical)
-*/
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beratyaalcin&label=Profile%20views&color=0e75b6&style=flat" alt="beratyaalcin" /> </p>
-
-
----
-
-## 📫 Bana Ulaşın
+## Bana Ulaşın
 
 [LinkedIn](https://linkedin.com/in/beratyalcin)
 
@@ -52,5 +42,12 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📊 GitHub İstatistiklerim
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=beratyaalcin&label=Profile%20views&color=0e75b6&style=flat" alt="beratyaalcin" /> </p>
+
+---
+
+
+<h3 align="left">Diller ve araçlar:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
