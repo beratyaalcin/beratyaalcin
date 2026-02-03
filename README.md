@@ -1,21 +1,19 @@
-# Selam, ben Berat! 👋
+# Selam, ben Berat! 
 
-### 🎓 Bilgisayar Mühendisliği Son Sınıf Öğrencisi
-Bolu Abant İzzet Baysal Üniversitesi'nde öğrenim görüyorum. 
-Gömülü sistemler, yapay zeka ve görüntü işleme gibi teknolojilere ilgi duyuyorum.
+### Bilgisayar Mühendisliği Son Sınıf Öğrencisiyim
+### Bolu Abant İzzet Baysal Üniversitesi'nde öğrenim görüyorum. 
+### Gömülü sistemler, yapay zeka ve görüntü işleme gibi teknolojilere ilgi duyuyorum.
 
 ---
 
-## ⭐ Öne Çıkan Projelerim
-
-Aşağıdaki tabloda, teknik yetkinliklerimi en iyi yansıtan çalışmalarıma göz atabilirsiniz:
+## ⭐ Öne Çıkan Projelerim ⭐
 
 | Proje İsmi | Açıklama | Teknoloji | Link |
 | :--- | :--- | :--- | :--- |
-| **Lazerle Otonom Sinek Avcı** | Görüntü işleme ile sinekleri tespit edip lazerle etkisiz hale getiren mezuniyet projem. | `Python`, `OpenCV` | [Görüntüle](https://github.com/kullanici_adi/sinek-avci) |
-| **İnsansız Kara Aracı (İKA)** | TEKNOFEST kapsamında geliştirdiğimiz, otonom sürüş yeteneğine sahip kara aracı. | `C++`, `ROS`, `Python` | [İncele](https://github.com/kullanici_adi/ika-projesi) |
-| **Çığ Analizi & Görselleştirme** | Kar katmanlarını analiz ederek çığ riskini hesaplayan ve video çıktısı veren sistem. | `Python`, `Matplotlib` | [Detaylar](https://github.com/kullanici_adi/cig-analizi) |
-| **Video to PDF Converter** | Ders videolarını karelere (frame) bölüp otomatik olarak PDF notuna dönüştüren araç. | `Python`, `PyMuPDF` | [Koda Git](https://github.com/kullanici_adi/video-to-pdf) |
+| **Lazerle Otonom Sinek Avcı** | Görüntü işleme ile sinekleri tespit edip lazerle etkisiz hale getiren mezuniyet projem. | `Python`, `OpenCV` | [Görüntüle](https://github.com/beratyaalcin/sinek-avci) |
+| **İnsansız Kara Aracı (İKA)** | TEKNOFEST kapsamında geliştirdiğimiz, otonom sürüş yeteneğine sahip kara aracı. | `C++`, `ROS`, `Python` | [İncele](https://github.com/beratyaalcin/ika-projesi) |
+| **Çığ Analizi & Görselleştirme** | Kar katmanlarını analiz ederek çığ riskini hesaplayan ve video çıktısı veren sistem. | `Python`, `Matplotlib` | [Detaylar](https://github.com/beratyaalcin/cig-analizi) |
+| **Video to PDF Converter** | Ders videolarını karelere (frame) bölüp otomatik olarak PDF notuna dönüştüren araç. | `Python`, `PyMuPDF` | [Koda Git](https://github.com/beratyaalcin/video-to-pdf) |
 
 ---
 
@@ -36,7 +34,7 @@ Aşağıdaki tabloda, teknik yetkinliklerimi en iyi yansıtan çalışmalarıma 
 
 ## 📊 GitHub İstatistiklerim
 
-# ![Berat's GitHub stats](https://github-readme-stats.vercel.app/api?username=beratyaalcin&show_icons=true&theme=radical)
+![Berat's GitHub stats](https://github-readme-stats.vercel.app/api?username=beratyaalcin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beratyaalcin&layout=compact&theme=radical)
 */
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beratyaalcin&label=Profile%20views&color=0e75b6&style=flat" alt="beratyaalcin" /> </p>
