@@ -1,7 +1,7 @@
 # Selam, ben Berat! 
 
-### Bilgisayar Mühendisliği Son Sınıf Öğrencisiyim. 
-### Gömülü sistemler, yapay zeka ve görüntü işleme gibi teknolojilere ilgi duyuyorum.
+## Bilgisayar Mühendisliği Son Sınıf Öğrencisiyim. 
+## Gömülü sistemler, yapay zeka ve görüntü işleme gibi teknolojilere ilgi duyuyorum.
 
 ---
 
