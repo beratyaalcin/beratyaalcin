@@ -10,7 +10,7 @@
 
 | Proje İsmi | Açıklama | Teknoloji | Link |
 | :--- | :--- | :--- | :--- |
-| **Video to PDF Converter** | Ders videolarını karelere (frame) bölüp otomatik olarak PDF notuna dönüştüren araç. | `Python`, `PyMuPDF` | [Koda Git](https://github.com/beratyaalcin/videotopdf) |
+| **Video to PDF Converter** | Ders videolarını karelere bölüp otomatik olarak PDF notuna dönüştüren araç. | `Python`, `PyMuPDF` | [Koda Git](https://github.com/beratyaalcin/videotopdf) |
 | **Lazerle Otonom Sinek Avcı** | Görüntü işleme ile sinekleri tespit edip lazerle etkisiz hale getiren mezuniyet projem. | `Python`, `OpenCV` | [Görüntüle](https://github.com/beratyaalcin/sinek-avci) |
 
 
