@@ -12,7 +12,6 @@
 | :--- | :--- | :--- | :--- |
 | **Lazerle Otonom Sinek Avcı** | Görüntü işleme ile sinekleri tespit edip lazerle etkisiz hale getiren mezuniyet projem. | `Python`, `OpenCV` | [Görüntüle](https://github.com/beratyaalcin/sinek-avci) |
 | **İnsansız Kara Aracı (İKA)** | TEKNOFEST kapsamında geliştirdiğimiz, otonom sürüş yeteneğine sahip kara aracı. | `C++`, `ROS`, `Python` | [İncele](https://github.com/beratyaalcin/ika-projesi) |
-| **Çığ Analizi & Görselleştirme** | Kar katmanlarını analiz ederek çığ riskini hesaplayan ve video çıktısı veren sistem. | `Python`, `Matplotlib` | [Detaylar](https://github.com/beratyaalcin/cig-analizi) |
 | **Video to PDF Converter** | Ders videolarını karelere (frame) bölüp otomatik olarak PDF notuna dönüştüren araç. | `Python`, `PyMuPDF` | [Koda Git](https://github.com/beratyaalcin/videotopdf) |
 
 ---
