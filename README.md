@@ -2,9 +2,7 @@
 
 #### Bilgisayar Mühendisliği Son Sınıf Öğrencisiyim. 
 #### Gömülü sistemler, yapay zeka ve görüntü işleme gibi teknolojilere ilgi duyuyorum.
-
 ---
-
 ![Snake animation](https://raw.githubusercontent.com/beratyaalcin/beratyaalcin/output/github-snake-dark.svg)
 
 ---
