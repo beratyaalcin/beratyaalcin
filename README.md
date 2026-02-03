@@ -1,7 +1,6 @@
 # Selam, ben Berat! 
 
-### Bilgisayar Mühendisliği Son Sınıf Öğrencisiyim
-### Bolu Abant İzzet Baysal Üniversitesi'nde öğrenim görüyorum. 
+### Bilgisayar Mühendisliği Son Sınıf Öğrencisiyim. 
 ### Gömülü sistemler, yapay zeka ve görüntü işleme gibi teknolojilere ilgi duyuyorum.
 
 ---
@@ -42,12 +41,13 @@
 
 ---
 
+ [Koda Git]([https://github.com/beratyaalcin/video-to-pdf](https://linkedin.com/in/beratyalcin)) |
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/beratyalcin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beratyalcin" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beratyalcin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
