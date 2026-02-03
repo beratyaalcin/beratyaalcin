@@ -1,16 +1,25 @@
-## Hi there 👋
+# Selam, ben Berat! 👋
 
-<!--
-**beratyaalcin/beratyaalcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Bilgisayar Mühendisliği Son Sınıf Öğrencisi
+Bolu Abant İzzet Baysal Üniversitesi'nde (BAİBÜ) öğrenim görüyorum. Gömülü sistemler, yapay zeka ve görüntü işleme dünyasıyla iç içeyim.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Nelerle Uğraşıyorum?
+- **Görüntü İşleme:** OpenCV kullanarak gerçek zamanlı sistemler geliştiriyorum (Lazerle otonom takip sistemleri gibi!).
+- **Gömülü Sistemler:** PIC Mikrodenetleyiciler ve MikroC ile donanım seviyesinde kod yazmayı seviyorum.
+- **Yapay Zeka:** Problem çözen ajanlar ve veri madenciliği (Weka) üzerine projeler yürütüyorum.
+- **Python:** Otomasyon scriptleri ve veri işleme için ana aracım.
+
+---
+
+## 🚀 Şu An Ne Yapıyorum?
+- 🎯 Gerçek zamanlı görüntü işleme yapan otonom bir sistem üzerinde çalışıyorum.
+- 🤖 TEKNOFEST İnsansız Kara Araçları yarışması için hazırlık yapıyorum.
+- 📈 YDS için İngilizcemi geliştiriyorum.
+
+---
+
+## 📊 GitHub İstatistiklerim
+![Berat's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
