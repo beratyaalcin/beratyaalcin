@@ -1,4 +1,4 @@
-![Snake animation](https://raw.githubusercontent.com/beratyaalcin/beratyaalcin/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/beratyaalcin/beratyaalcin/output/github-snake-dark.svg)
 
 # Selam, ben Berat! 
 
