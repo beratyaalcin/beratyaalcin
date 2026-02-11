@@ -11,6 +11,7 @@
 | Proje İsmi | Açıklama | Teknoloji | Link |
 | :--- | :--- | :--- | :--- |
 | **Video to PDF Converter** | Ders videolarını karelere bölüp otomatik olarak PDF notuna dönüştüren araç. | `Python`, `PyMuPDF` | [Koda Git](https://github.com/beratyaalcin/videotopdf) |
+| **Gesture Volume Control Pro** | El hareketleri ile Windows ses seviyesini doğrusal (linear) olarak kontrol eden neon arayüzlü YZ aracı. | `Python`, `MediaPipe`, `Pycaw` | [Koda Git](https://github.com/beratyaalcin/03-GestureVolumeControl) |
 | **MemeFace AR** | El ve yüz takibi ile dinamik filtreler uygulayan gerçek zamanlı artırılmış gerçeklik uygulaması. | `Python`, `MediaPipe`, `OpenCV` | [Koda Git](https://github.com/beratyaalcin/MemeFaceAR) |
 | **Lazerle Otonom Sinek Avcı** | Görüntü işleme ile sinekleri tespit edip lazerle etkisiz hale getiren mezuniyet projem. | `Python`, `OpenCV` | [Görüntüle](https://github.com/beratyaalcin/sinek-avci) |
 
